@@ -71,7 +71,7 @@ Within a particular ecosystem, there may be a common way of installing things, s
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+Tell people where thegxhjsbkjsy can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
 ## Roadmap
 If you have ideas for releases in the future, it is a good idea to list them in the README.
@@ -83,7 +83,10 @@ For people who want to make changes to your project, it's helpful to have some d
 
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
-## Authors and acknowledgment
+## Authors and a
+bksczcn
+
+xcb,zmxncbs,mcknowledgment
 Show your appreciation to those who have contributed to the project.
 
 ## License
